@@ -1,5 +1,6 @@
 # Softuniada-2023
 This is the project, presentation and the solved exercise I did on one of the biggest Bulgarian Software competitions.
+https://softuniada.softuni.bg/
 
 # Category
 Software projects
@@ -15,4 +16,4 @@ Python-ConsoleSQL
 # Place
 unknown
 
-more soon...
+**more soon...**
