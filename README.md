@@ -1,19 +1,21 @@
 # Softuniada-2023
-This is the project, presentation and the solved exercise I did on one of the biggest Bulgarian Software competitions.
+This is the project, presentation and the solved exercises I did on one of the biggest Bulgarian Software competitions.
 https://softuniada.softuni.bg/
 
-# Category
-Software projects
+# project
 
-# Age
-Under 16 years old.
+## Category
+#### Software projects
 
-# Project name
-Python-ConsoleSQL
+## Age
+#### Under 16 years old.
+
+## Project name
+#### Python-ConsoleSQL
 
 #### You could say it's a prototype
 
-# Place
-unknown
+## Place
+#### unknown
 
 **more soon...**
