@@ -13,9 +13,29 @@ https://softuniada.softuni.bg/
 ## Project name
 #### Python-ConsoleSQL
 
-#### You could say it's a prototype
+## Place
+#### 4th
+
+
+# Competitive programming
+
+## Age
+#### Under 16 years old.
+
+# Problems
+#### 01. Row in Pascal's Triangle - **Easy**
+#### 02. Rocket - **Simple**
+#### 03. Longest Valid Parentheses - **Elementary**
+#### 04. Rotate Matrix - **Simple**
+#### 05. Biggest Formed Number - **Hard**
+#### 06. Pancakes - **Really difficult**
+#### 07. Bottom - **For Professionals**
+#### 08. Picky Particles - **For Professionals**
+#### 09. Two Teams - **Really difficult**
+#### 10. High Tech Racing - **Impossible**
+
+## Solved problems
+6/10
 
 ## Place
-#### unknown
-
-**more soon...**
+### unknown
