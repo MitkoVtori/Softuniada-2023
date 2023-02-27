@@ -35,7 +35,7 @@ https://softuniada.softuni.bg/
 #### 10. High Tech Racing - **Impossible**
 
 ## Solved problems
-6/10
+### 6/10
 
 ## Place
-### unknown
+### 4th
