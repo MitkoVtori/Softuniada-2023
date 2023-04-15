@@ -1,6 +1,6 @@
 # Softuniada-2023
 This is the project, presentation and the solved exercises I did on one of the biggest Bulgarian Software competitions.
-https://softuniada.softuni.bg/
+https://softuniada.softuni.bg/softuniada-2023/
 
 # project
 
